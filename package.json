@@ -1,0 +1,21 @@
+{
+  "name": "strophe-plugins",
+  "version": "0.1.0",
+  "description": "Plugins for strophejs",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/flosse/npm-strophe-plugins"
+  },
+  "keywords": [
+    "xmpp",
+    "strophe",
+    "jabber",
+    "plugin"
+  ],
+  "author": "Markus Kohlhase",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/flosse/npm-strophe-plugins/issues"
+  },
+  "homepage": "https://github.com/flosse/npm-strophe-plugins"
+}

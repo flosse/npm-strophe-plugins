@@ -1,0 +1,8 @@
+*.swp
+*.coffee
+*.spec.js
+*.test.js
+*.min.js
+test/
+spec/
+Cakefile
